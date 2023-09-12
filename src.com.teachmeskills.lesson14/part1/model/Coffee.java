@@ -1,4 +1,4 @@
-package part1.extend.model;
+package part1.model;
 
 public class Coffee extends Thread {
     private  String name;

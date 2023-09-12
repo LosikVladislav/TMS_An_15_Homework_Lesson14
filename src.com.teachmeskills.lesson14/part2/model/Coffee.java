@@ -1,4 +1,4 @@
-package part2.implement.model;
+package part2.model;
 
 public class Coffee implements Runnable{
     private String name;

@@ -1,8 +1,8 @@
-package part2.implement;
+package part2;
 
-import part2.implement.model.Breakfast;
-import part2.implement.model.Coffee;
-import part2.implement.model.News;
+import part2.model.Breakfast;
+import part2.model.Coffee;
+import part2.model.News;
 
 public class Run {
     public static void main(String[] args) {
